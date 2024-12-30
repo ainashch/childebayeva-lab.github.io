@@ -6,7 +6,7 @@ subtitle: Assistant Professor, University of Texas at Austin
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: GH60088_small.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>WCP 5.160</p>
